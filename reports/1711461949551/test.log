@@ -1,0 +1,11 @@
+[2024-03-26 02:05:49] [1] [INFO] [TestNG] Running:
+  C:\Users\amol.kumbhare\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+[2024-03-26 02:05:57] [1] [INFO] Starting driver session...
+[2024-03-26 02:06:00] [1] [INFO] Driver session started.
+[2024-03-26 02:06:00] [1] [INFO] INFO: opening url 'https://www.parkar.digital'
+[2024-03-26 02:06:07] [1] [INFO] PASS: element 'conatctUsButton' is clicked.
+[2024-03-26 02:06:08] [1] [INFO] PASS: keys 'Demo Test' are sent to element 'nameTxt'.
+[2024-03-26 02:06:09] [1] [INFO] PASS: keys 'demotest@gmail.com' are sent to element 'emailTxt'.
+[2024-03-26 02:06:09] [1] [INFO] PASS: keys '1234567890' are sent to element 'phoneTxt'.
+[2024-03-26 02:06:10] [1] [INFO] PASS: keys 'test message' are sent to element 'messageTxt'.

@@ -1,0 +1,25 @@
+[2024-03-26 07:52:55] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=https://www.gsmarena.com
+selenium_url=http://192.168.1.7:4444/wd/hub
+auto_screenshot=true
+explicit_timeout=5
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+browserName=chrome
+===============================================
+
+[2024-03-26 07:52:56] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-03-26 07:53:00] [1] [INFO] Set thread-count=1
+[2024-03-26 07:53:00] [1] [INFO] Set data-provider-thread-count=1
+[2024-03-26 07:53:00] [1] [INFO] CARINA_CORE_VERSION: 1.1.3
+[2024-03-26 07:55:06] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2024-03-26 07:55:06] [1] [INFO] RESULT #1: TEST [Hello World test - testBrandGroup] PASS [screenshots=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/72f0cb90-2589-4ad4-9c45-1af2f18d187c/report.html | log=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/72f0cb90-2589-4ad4-9c45-1af2f18d187c/test.log]
+[2024-03-26 07:55:06] [1] [INFO] RESULT #2: TEST [Hello World test - testCompareModels] PASS [screenshots=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/2cf519b4-fae2-44ea-adee-3eea928cf2ef/report.html | log=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/2cf519b4-fae2-44ea-adee-3eea928cf2ef/test.log]
+[2024-03-26 07:55:06] [1] [INFO] RESULT #3: TEST [Hello World test - testModelSpecs] PASS [screenshots=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/70b69f5a-e90e-45b2-8d14-1c49c4aea923/report.html | log=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/70b69f5a-e90e-45b2-8d14-1c49c4aea923/test.log]
+[2024-03-26 07:55:06] [1] [INFO] RESULT #4: TEST [Hello World test - testNewsSearch] PASS [screenshots=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/a74a0975-0ddb-4631-af5b-b90fead965ad/report.html | log=file://C:\Users\amol.kumbhare\Downloads\carina-Extent\carina-Extent\.\reports\1711482775677/a74a0975-0ddb-4631-af5b-b90fead965ad/test.log]

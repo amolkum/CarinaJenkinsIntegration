@@ -1,0 +1,9 @@
+[2024-03-26 07:54:37] [43] [WARN] Reporting disabled: using no op test run registrar
+[2024-03-26 07:54:37] [43] [INFO] TEST [Hello World test - testNewsSearch] STARTED at [01:24:37 2024-03-27]
+[2024-03-26 07:54:37] [43] [INFO] Starting driver session...
+[2024-03-26 07:54:40] [43] [INFO] Driver session started.
+[2024-03-26 07:54:40] [43] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2024-03-26 07:54:49] [43] [INFO] PASS: element 'newsLink' is clicked.
+[2024-03-26 07:54:49] [43] [INFO] PASS: keys 'iphone' are sent to element 'searchTextField'.
+[2024-03-26 07:54:58] [43] [INFO] PASS: element 'searchButton' is clicked.
+[2024-03-26 07:55:06] [43] [INFO] TEST [Hello World test - testNewsSearch] PASSED at [01:25:06 2024-03-27]

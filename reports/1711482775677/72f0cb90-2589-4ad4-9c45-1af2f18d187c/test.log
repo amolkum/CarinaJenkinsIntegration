@@ -1,0 +1,8 @@
+[2024-03-26 07:53:00] [43] [WARN] Reporting disabled: using no op test run registrar
+[2024-03-26 07:53:00] [43] [INFO] TEST [Hello World test - testBrandGroup] STARTED at [01:23:00 2024-03-27]
+[2024-03-26 07:53:00] [43] [INFO] Starting driver session...
+[2024-03-26 07:53:10] [43] [INFO] Driver session started.
+[2024-03-26 07:53:10] [43] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2024-03-26 07:53:18] [43] [INFO] PASS: element 'allBrandsButton' is clicked.
+[2024-03-26 07:53:31] [43] [INFO] PASS: element 'ExtendedWebElement - [52]' is clicked.
+[2024-03-26 07:53:41] [43] [INFO] TEST [Hello World test - testBrandGroup] PASSED at [01:23:41 2024-03-27]
